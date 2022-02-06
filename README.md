@@ -1,8 +1,8 @@
 # Hello :)
 
-- 😸 I'm Jessica, currently studying to become a frontend developer by 2023.
+- 😸 I'm Jessica, currently studying to become a frontend developer by summer 2023.
 - 🏛️ Medieinstitutet FED 2021-2023 online/Stockholm, Sweden.
-- ▶️ HTML, CSS/SASS, JavaScript, TypeScript.
+- ▶️ Learning HTML, CSS/SCSS, JavaScript, TypeScript, Angular.
 
 ##
 
