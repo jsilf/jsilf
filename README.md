@@ -1,8 +1,7 @@
-# Hello 🖖
+# 🖖
 
-- 😸 I'm Jessica, I am a junior frontend developer.
-- 🏛️ Just graduated from Medieinstitutet as a Frontend developer 2021-2023 online/Stockholm, Sweden.
-- 👩‍💻 My current webstack HTML5, CSS3, SASS, JavaScript ES6, TypeScript, React.js.
+- 😸 Frontend developer who recently graduated based in Stockholm, Sweden.
+- 👩‍💻 Current techstack: HTML5, CSS3, SASS, JavaScript ES6, TypeScript, React.js, Node.js.
 
 ##
 
