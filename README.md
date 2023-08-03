@@ -1,6 +1,6 @@
 # 🖖
 
-- 😸 Frontend developer who recently graduated based in Stockholm, Sweden.
+- 😸 Frontend developer based in Stockholm, Sweden.
 - 👩‍💻 Current techstack: HTML5, CSS3, SASS, JavaScript ES6, TypeScript, React.js, Node.js.
 
 ##
